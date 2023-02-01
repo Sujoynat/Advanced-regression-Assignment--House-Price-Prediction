@@ -79,4 +79,5 @@ The higher values of negative coeeficients suggest a decrease in sale value. Som
 |Feature | Description|
 -----------------------
  |PropAge   | Age of the property at the time of seeling | 
+ 
  |MSSubClass | Identifies the type of dwelling involved in the sale |
